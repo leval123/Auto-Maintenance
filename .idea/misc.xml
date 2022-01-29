@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/activity_add_vehicle.xml" value="0.2658514492753623" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/activity_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/activity_main.xml" value="0.14917127071823205" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/activity_manage_vehicle.xml" value="0.2658514492753623" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/activity_near_me.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/content_manage_vehicle.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/notif_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Taha/floobits/share/jayashsing/JULTRAutoMaintenance/app/src/main/res/layout/vehicle_item.xml" value="0.2513586956521739" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

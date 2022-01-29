@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".VideoTutorials"
+    tools:showIn="@layout/activity_video_tutorials">
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_margin="16dp"-->
+<!--        android:text="@string/hi"/>-->
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/youtube_player_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:translationY="60dp"
+        app:autoPlay="true"
+        app:showFullScreenButton="true"
+        app:showVideoDuration="true"
+        app:videoId="dQw4w9WgXcQ" />
+
+
+
+</androidx.core.widget.NestedScrollView>
